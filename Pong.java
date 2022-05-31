@@ -18,10 +18,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-/**
- *
- * @author wkranz
- */
+
 public class Pong extends Application {
 
     private static final int WIDTH = 800;
