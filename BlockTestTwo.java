@@ -14,10 +14,8 @@ import javafx.scene.canvas.Canvas;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-/**
- *
- * @author wkranz
- */
+
+
 public class BlockTestTwo extends Application {
      private static final int WIDTH = 800;
     private static final int HEIGHT = 600;
