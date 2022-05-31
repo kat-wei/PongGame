@@ -8,10 +8,7 @@ package pong;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.paint.Color;
 
-/**
- *
- * @author wkranz
- */
+
 public class Ball extends Block implements Renderable, Updateable {
 
     private int xSpeed;
