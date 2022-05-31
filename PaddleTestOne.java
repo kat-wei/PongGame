@@ -8,10 +8,7 @@ package pong;
 
 import static java.lang.System.*;
 import javafx.scene.paint.Color;
-/**
- *
- * @author wkranz
- */
+
 public class PaddleTestOne {
     public static void main(String args[]) {
         Paddle one = new Paddle();
