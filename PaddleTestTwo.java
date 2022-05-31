@@ -17,10 +17,7 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
-/**
- *
- * @author wkranz
- */
+
 public class PaddleTestTwo extends Application {
 
     private static final int WIDTH = 800;
